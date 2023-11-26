@@ -1,5 +1,5 @@
 # Credit-Card-Transaction-EMI
-This is competition problem in which unfortunately we didn't got the top 3 position but me and mine team have got overall rank of 7. Please note that at some places you might not find proper commenting or warning, bcz we have did this code in a fixed time-span. You can further explore more features and improve its accuracy. Please refer to the pdf that i have upoaded in the repository to get a complete idea of problem statement.
+This is competition problem in which unfortunately we didn't got the top 3 position but me and my team got overall 5th rank. Please note that at some places you might not find proper commenting or warning, bcz we have did this code in a fixed time-span. You can further explore more features and improve its accuracy. Please refer to the pdf that i have upoaded in the repository to get a complete idea of problem statement.
 
 ## Introduction
 Banks offer EMI facility to their Credit Card customers. Customers can use this facility to break down 
